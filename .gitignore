@@ -1,8 +1,15 @@
 .DS_Store
-*.xccheckout
-*.xcscmblueprint
-xcuserdata
-Carthage/
-Pods/
-.rubygems/
-bin/
+
+# Maven
+log/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
